@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813740064308",
+    "firebase_url": "https://sunshine-ec4c5.firebaseio.com",
+    "project_id": "sunshine-ec4c5",
+    "storage_bucket": "sunshine-ec4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813740064308:android:677f9f0e6e7c961e",
+        "android_client_info": {
+          "package_name": "com.droidwala.android.sunshine.wearable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813740064308-eskltcgt43a5svbr0be7id1pvk7vmogf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidwala.android.sunshine.wearable",
+            "certificate_hash": "2371E479C099674DE91DEE83313C223C86AB1B49"
+          }
+        },
+        {
+          "client_id": "813740064308-28r9tmlk2b0vt3cpuook0eocqao0hehc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUktrGJ6Y4SQdtX388CErUf7wbxkPH068"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813740064308-28r9tmlk2b0vt3cpuook0eocqao0hehc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
